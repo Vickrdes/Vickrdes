@@ -47,5 +47,14 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Power Bi" 
+    title="Power Bi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000)" 
+/>
+
 <br/>
 <br/>
