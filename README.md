@@ -53,7 +53,7 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
     title="Power Bi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000)" 
+    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000)](https://icons8.com.br/icon/Ny0t2MYrJ70p/power-bi-2021)" 
 />
 
 <br/>
