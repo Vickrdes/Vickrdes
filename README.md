@@ -60,10 +60,9 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
     
 <br/>
