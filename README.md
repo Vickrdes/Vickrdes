@@ -55,6 +55,16 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"
 />
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+    
 <br/>
 <br/>
