@@ -57,13 +57,6 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
 />
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas" 
-    height="200" 
-    style="padding-right: 10px;" 
-  />
     
 <br/>
 <br/>
