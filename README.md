@@ -12,15 +12,10 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
 
 ### 🚀 Linguagens e Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/power-bi-2021.png" width="40" title="Power BI"/>
-</div>
+* **Front-end:** HTML5, CSS3
+* **Back-end/Data:** Python, MySQL
+* **Mobile & Cloud:** Flutter, Firebase
+* **Data Vis:** Power BI
 
 ---
 
@@ -36,11 +31,8 @@ Aqui você encontrará projetos que refletem minha evolução, estudos e experi�
 ### 📫 Vamos nos conectar?
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vitória-souza-37771b2a3" target="_blank">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-souza-37771b2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:vitoria.souza.142024@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
