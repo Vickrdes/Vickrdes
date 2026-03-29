@@ -1,30 +1,25 @@
 # 👩🏻‍💻 Vitória Souza
 
-**`Engenharia de Software @ UMC`**
+**`Engenharia de Software @ UMC | Foco em Ciência de Dados`**
 
-Sou Vitória Souza, tenho 21 anos e sou natural de São Paulo. Atualmente curso **Engenharia de Software** na UMC – Universidade de Mogi das Cruzes.
+Sou Vitória Souza, tenho 21 anos e sou de São Paulo. Atualmente curso **Engenharia de Software** na UMC – Universidade de Mogi das Cruzes, direcionando meus estudos para a área de **Dados**.
 
-Sou apaixonada por tecnologia e desenvolvimento de software, com foco atual em **Soluções Mobile (mHealth)** e **Machine Learning**. Atuo com metodologias ágeis (Scrum/Kanban) para garantir entregas de valor e impacto social.
+Sou apaixonada por transformar dados em decisões. Meu foco atual é o aperfeiçoamento em **Análise Exploratória de Dados (EDA)**, **Pré-processamento**, **Estatística Aplicada** e modelos de **Machine Learning (SVM)**. Utilizo metodologias ágeis para organizar meus fluxos de análise e garantir insights precisos.
 
-Aqui você encontrará projetos que refletem minha evolução, estudos e experiências no mundo da programação.
+Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem preditiva.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 Stack de Dados & Tecnologias
 
-* **Front-end:** HTML5, CSS3
-* **Back-end/Data:** Python, MySQL
-* **Mobile & Cloud:** Flutter, Firebase
-* **Data Vis:** Power BI
+* **Linguagens:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL)
+* **Visualização:** Power BI, Matplotlib, Seaborn
+* **Ferramentas:** Google Colab, Kaggle, Jupyter Notebooks
+* **Conceitos:** Estatística Descritiva, Normalização, Classificação (SVM), Limpeza de Dados
 
 ---
 
 ### 📊 Estatísticas de Desenvolvimento
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickrdes&layout=compact&langs_count=7&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickrdes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>
 
 ---
 
