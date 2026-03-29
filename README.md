@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitória Souza
 
-**`Engenharia de Software @ UMC | Foco em Ciência de Dados`**
+**`Engenharia de Software @ UMC | Foco em Ciência de Dados/Análise de dados`**
 
 Sou Vitória Souza, tenho 21 anos e sou de São Paulo. Atualmente curso **Engenharia de Software** na UMC – Universidade de Mogi das Cruzes, direcionando meus estudos para a área de **Dados**.
 
