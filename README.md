@@ -1,62 +1,48 @@
 # 👩🏻‍💻 Vitória Souza
 
-**`Estudante de tecnologia`**
+**`Engenharia de Software @ UMC`**
 
-Sou Vitória Souza, tenho 21 anos e sou natural de São Paulo. Atualmente curso Engenharia de Software na UMC – Universidade de Mogi das Cruzes.
+Sou Vitória Souza, tenho 21 anos e sou natural de São Paulo. Atualmente curso **Engenharia de Software** na UMC – Universidade de Mogi das Cruzes.
 
-Sou apaixonada por tecnologia e desenvolvimento de software, sempre em busca de novos desafios, aprendizado contínuo e oportunidades de crescimento na área de tecnologia.
+Sou apaixonada por tecnologia e desenvolvimento de software, com foco atual em **Soluções Mobile (mHealth)** e **Machine Learning**. Atuo com metodologias ágeis (Scrum/Kanban) para garantir entregas de valor e impacto social.
 
 Aqui você encontrará projetos que refletem minha evolução, estudos e experiências no mundo da programação.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/power-bi-2021.png" width="40" title="Power BI"/>
+</div>
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 📊 Estatísticas de Desenvolvimento
 
-<img 
-    align="left" 
-    alt="Power Bi" 
-    title="Power Bi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"
-/>
-### 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickrdes&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickrdes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
 
-    
-<br/>
-<br/>
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vitória-souza-37771b2a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vitoria.souza.142024@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+---
+*“Acredito que o verdadeiro crescimento vem da perseverança e da vontade de aprender com cada experiência que enfrentamos.”*
