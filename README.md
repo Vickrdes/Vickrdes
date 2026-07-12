@@ -13,9 +13,9 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
 ### 🚀 Stack de Dados & Tecnologias
 
 * **Linguagens:** Python (Pandas, NumPy), SQL (MySQL)
-* **Visualização:** Power BI, Matplotlib, Seaborn
-* **Ferramentas:** Google Colab, Kaggle, Jupyter Notebooks
-* **Conceitos:** Estatística Descritiva, Normalização, Classificação (SVM), Limpeza de Dados
+* **Visualização:** Power BI, Matplotlib
+* **Ferramentas:** Google Colab, Kaggle, Jupyter Notebooks, VSCODE
+* **Conceitos:** Análise de dados, Normalização, Classificação (SVM), Limpeza de Dados
 
 ---
 
