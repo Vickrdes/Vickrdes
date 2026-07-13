@@ -34,30 +34,29 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
 
 <img 
     align="left" 
-    alt="React"
-    title="MySql" 
-    width="30px" 
+    alt="MySQL"
+    title="MySQL" 
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI_128x128.svg" 
+/>
 
-<br/>
 <br/>
 ---
 *“Acredito que o verdadeiro crescimento vem da perseverança e da vontade de aprender com cada experiência que enfrentamos.”*
