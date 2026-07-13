@@ -58,5 +58,6 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
 />
 <br/>
 <br/>
+<br/>
 ---
 *“Acredito que o verdadeiro crescimento vem da perseverança e da vontade de aprender com cada experiência que enfrentamos.”*
