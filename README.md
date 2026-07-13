@@ -56,7 +56,7 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI_128x128.svg" 
 />
-
+<br/>
 <br/>
 ---
 *“Acredito que o verdadeiro crescimento vem da perseverança e da vontade de aprender com cada experiência que enfrentamos.”*
