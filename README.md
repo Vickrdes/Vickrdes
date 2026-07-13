@@ -49,5 +49,7 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+<br/>
 ---
 *“Acredito que o verdadeiro crescimento vem da perseverança e da vontade de aprender com cada experiência que enfrentamos.”*
