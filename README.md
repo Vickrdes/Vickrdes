@@ -57,7 +57,7 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
     title="Power BI"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" 
 />
 
 <br/>
