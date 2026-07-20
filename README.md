@@ -64,9 +64,9 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos referente a d
     align="left" 
     alt="n8n" 
     title="n8n"
-    width="35px" 
+    width="75px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" 
+    src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" 
 />
 
 <br/>
