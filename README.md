@@ -16,6 +16,7 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
 * **Visualização:** Power BI, Matplotlib
 * **Ferramentas:** Google Colab, Kaggle, Jupyter Notebooks, VSCODE
 * **Conceitos:** Análise de dados, Normalização, Classificação (SVM), Limpeza de Dados
+* **N8N8** Automação de tarefas, Criação de chatbos (Comercial, Tools)
 
 ---
 
