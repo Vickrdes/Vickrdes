@@ -6,7 +6,7 @@ Sou Vitória Souza, tenho 21 anos e sou de São Paulo. Atualmente curso **Engenh
 
 Sou apaixonada por transformar dados em decisões. Meu foco atual é o aperfeiçoamento em **Análise Exploratória de Dados (EDA)**, **Pré-processamento**, **Estatística Aplicada** e modelos de **Machine Learning (SVM)**. Utilizo metodologias ágeis para organizar meus fluxos de análise e garantir insights precisos.
 
-Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem preditiva.
+Aqui você encontrará meus estudos, desafios do Kaggle e projetos referente a desenvolvimentos de softwares.
 
 ---
 
@@ -59,6 +59,14 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos de modelagem 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" 
+/>
+<img 
+    align="left" 
+    alt="n8n" 
+    title="n8n"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" 
 />
 
 <br/>
