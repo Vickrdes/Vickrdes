@@ -4,7 +4,7 @@
 
 Sou Vitória Souza, tenho 21 anos e sou de São Paulo. Atualmente curso **Engenharia de Software** na UMC – Universidade de Mogi das Cruzes, direcionando meus estudos para a área de **Dados**.
 
-Sou apaixonada por transformar dados em decisões. Meu foco atual é o aperfeiçoamento em **Análise Exploratória de Dados (EDA)**, **Pré-processamento**, **Estatística Aplicada** e modelos de **Machine Learning (SVM)**. Utilizo metodologias ágeis para organizar meus fluxos de análise e garantir insights precisos.
+Sou apaixonada por transformar dados em decisões. Meu foco atual é o aperfeiçoamento em **Análise Exploratória de Dados (EDA)**, **Pré-processamento** e modelos de **Machine Learning (SVM)**. Utilizo metodologias ágeis para organizar meus fluxos de análise e garantir insights precisos.
 
 Aqui você encontrará meus estudos, desafios do Kaggle e projetos referente a desenvolvimentos de softwares.
 
@@ -17,10 +17,6 @@ Aqui você encontrará meus estudos, desafios do Kaggle e projetos referente a d
 * **Ferramentas:** Google Colab, Kaggle, Jupyter Notebooks, VSCODE
 * **Conceitos:** Análise de dados, Normalização, Classificação (SVM), Limpeza de Dados
 * **N8N8** Automação de tarefas, Criação de chatbos (Comercial, Tools)
-
----
-
-### 📊 Estatísticas de Desenvolvimento
 
 ---
 
